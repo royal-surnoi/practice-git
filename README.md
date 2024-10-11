@@ -13,3 +13,6 @@
 
 # squasg 
 * adding first feature from rebase
+=======
+* done the feature
+>>>>>>> 889c6885e3396040709bbb3c7f7def13856afb52
