@@ -9,6 +9,7 @@
 # rebase 
 * adding first feature from rebase
 * developement in progress
+<<<<<<< HEAD
 * done the feature
 
 # squasg 
